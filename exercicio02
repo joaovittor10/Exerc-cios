@@ -1,0 +1,10 @@
+Exercicio
+2-Código que encontre uma peça repetida dentro de um jogo da memória de 20 peças
+Resposta:
+
+Se tiver em um jogo da memória de 20 peças
+ Olhe as peças
+Se tiver peças repetidas
+ Encontre elas
+Se não tiver
+ Não faça nada
