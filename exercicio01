@@ -1,0 +1,8 @@
+Exercicios
+1-Código que faça a rotina de esvaziar um inventário de um jogo
+Resposta:
+
+Se o iventário estiver cheio
+ Esvazie
+Se não estiver
+ Não faça nada
